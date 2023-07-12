@@ -3,7 +3,7 @@
 ## 💻 Turning ideas into powerful web solutions!
 
 ![Felipe Uenes GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeuenes&show_icons=true&theme=transparent)
-![Felipe Uenes](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Felipe Uenes](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeuenes&hide_progress=true)
 
 # 🔧 Key skills:
 
