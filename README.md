@@ -17,10 +17,7 @@
   <br>
 </div>
 
-
-✨ I am deeply passionate about my craft and embrace opportunities to learn and grow as a developer. I am constantly exploring new technologies and frameworks to expand my skill set and deliver innovative solutions.
-
-📩 If you're seeking a versatile full stack web developer with expertise in JavaScript, ReactJS, and Node.js, I would love to connect and collaborate on your next project. Let's bring your ideas to life and create remarkable digital experiences together!
+<br> <br>
 
 # My contacts:
 
