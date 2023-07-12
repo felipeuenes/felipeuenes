@@ -1,6 +1,6 @@
 # Hi there, I'm Felipe Uenes, web developer! ✌️
 
-💻 Turning ideas into powerful web solutions!
+##💻 Turning ideas into powerful web solutions!
 
 🌟 Hi there! I'm Felipe Uenes, a passionate full stack web developer with a focus on JavaScript, ReactJS, and Node.js. I thrive on building robust and scalable applications that solve real-world problems and deliver exceptional user experiences.
 
@@ -10,7 +10,7 @@
 
 💼 Throughout my career, I have successfully delivered a range of projects, from small-scale websites to complex web applications. I am well-versed in working with databases, API integrations, and implementing security measures to ensure the integrity of data and protect user privacy.
 
-🔧 Key skills:
+##🔧 Key skills:
 
 JavaScript (ES6+)
 ReactJS
