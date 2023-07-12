@@ -1,6 +1,6 @@
 # Hi there, I'm Felipe Uenes, web developer! ✌️
 
-💻 Turning ideas into powerful web solutions!
+## 💻 Turning ideas into powerful web solutions!
 
 🌟 Hi there! I'm Felipe Uenes, a passionate full stack web developer with a focus on JavaScript, ReactJS, and Node.js. I thrive on building robust and scalable applications that solve real-world problems and deliver exceptional user experiences.
 
