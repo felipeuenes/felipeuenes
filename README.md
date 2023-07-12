@@ -2,14 +2,6 @@
 
 ## 💻 Turning ideas into powerful web solutions!
 
-🌟 Hi there! I'm Felipe Uenes, a passionate full stack web developer with a focus on JavaScript, ReactJS, and Node.js. I thrive on building robust and scalable applications that solve real-world problems and deliver exceptional user experiences.
-
-💡 With a strong foundation in web development, I have honed my skills in crafting efficient front-end interfaces and developing server-side logic. My expertise lies in leveraging the power of JavaScript to create dynamic, interactive, and responsive web applications.
-
-🎯 My commitment to delivering high-quality results is evident in my attention to detail and my dedication to staying updated with the latest industry trends and best practices. I am experienced in working with agile methodologies, collaborating with cross-functional teams, and delivering projects within deadlines.
-
-💼 Throughout my professional journey, I have worked on various projects, ranging from simple websites to more complex applications. I have gained experience in web development, including designing interfaces and implementing functionalities. I also have knowledge of databases and API integration. I continuously strive to update my skills to provide efficient and high-quality solutions.
-
 ![Felipe Uenes GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeuenes&show_icons=true&theme=transparent)
 
 
