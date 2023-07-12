@@ -10,6 +10,9 @@
 
 💼 Throughout my professional journey, I have worked on various projects, ranging from simple websites to more complex applications. I have gained experience in web development, including designing interfaces and implementing functionalities. I also have knowledge of databases and API integration. I continuously strive to update my skills to provide efficient and high-quality solutions.
 
+[(https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)]
+
+
 # 🔧 Key skills:
 
 JavaScript (ES6+)
