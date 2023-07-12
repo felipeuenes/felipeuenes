@@ -5,7 +5,7 @@
 
 
 ![Felipe Uenes GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeuenes&show_icons=true&theme=transparent)
-![Felipe Uenes](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeuenes&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeuenes&layout=compact)
   
 
 
