@@ -8,7 +8,7 @@
 
 🎯 My commitment to delivering high-quality results is evident in my attention to detail and my dedication to staying updated with the latest industry trends and best practices. I am experienced in working with agile methodologies, collaborating with cross-functional teams, and delivering projects within deadlines.
 
-💼 Throughout my career, I have successfully delivered a range of projects, from small-scale websites to complex web applications. I am well-versed in working with databases, API integrations, and implementing security measures to ensure the integrity of data and protect user privacy.
+💼 Throughout my professional journey, I have worked on various projects, ranging from simple websites to more complex applications. I have gained experience in web development, including designing interfaces and implementing functionalities. I also have knowledge of databases and API integration. I continuously strive to update my skills to provide efficient and high-quality solutions.
 
 🔧 Key skills:
 
